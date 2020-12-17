@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, me chamo Gabriel Moraes. Atualmente estudante de desenvolvimento web, meu objetivo é a especialização tanto em front-end quanto em back-end, portanto, fullstack.
 
-<!--
-**naMoraezDev/naMoraezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Seguem as tecnologias com as quais trabalho até o momento:
 
-Here are some ideas to get you started:
+* HTML
+* CSS
+* JavaScript
+* React
+* NodeJs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Você pode conferir alguns projetos que desenvolvi utilizando essas tecnologias na minha página de repositórios.
+
+#### Você também pode conectar-se a mim através do LinkedIn:
+
+#### Link do meu perfil no LinkedIn : https://www.linkedin.com/in/gabriel-moraes-5572b2145/
