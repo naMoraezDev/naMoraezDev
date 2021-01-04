@@ -1,4 +1,6 @@
-### Olá, me chamo Gabriel Moraes, grande entusiasta da programação :game_die: e enxadrista nas horas vagas :chess_pawn:. Meu objetivo é aprender cada vez mais sobre as principais tecnologias utilizadas no mercado e quem sabe um dia me tornar o próximo Mark Zuckerberg :stuck_out_tongue_closed_eyes:.
+### Olá, me chamo Gabriel Moraes, grande entusiasta da programação :game_die: e enxadrista nas horas vagas :chess_pawn:. 
+
+#### Meu objetivo é aprender cada vez mais sobre as principais tecnologias utilizadas no mercado e quem sabe um dia me tornar o próximo Mark Zuckerberg :stuck_out_tongue_closed_eyes:.
 
 --
 
