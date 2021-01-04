@@ -3,7 +3,7 @@
 #### O meu objetivo é aprender cada vez mais sobre as principais tecnologias utilizadas no mercado e quem sabe um dia me tornar o próximo Mark Zuckerberg :stuck_out_tongue_closed_eyes:.
 
 
-#### :computer: Tecnologias com as quais trabalho:
+#### :computer: Tecnologias que utilizo:
 
 * HTML
 * CSS
