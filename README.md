@@ -1,4 +1,4 @@
-### Olá, me chamo Gabriel Moraes. Atualmente estudante de desenvolvimento web, meu objetivo é a especialização tanto em front-end quanto em back-end, portanto, fullstack.
+### Olá, me chamo Gabriel Moraes. Atualmente estudante de desenvolvimento web, meu objetivo é a especialização tanto em front-end quanto em back-end.
 
 #### Seguem as tecnologias com as quais trabalho até o momento:
 
