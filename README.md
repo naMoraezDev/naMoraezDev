@@ -1,20 +1,14 @@
 ### Olá, me chamo Gabriel Moraes, grande entusiasta da programação :game_die: e enxadrista nas horas vagas :chess_pawn:. 
 
-#### O meu objetivo é aprender cada vez mais sobre as principais tecnologias utilizadas no mercado e quem sabe um dia me tornar o próximo Mark Zuckerberg :stuck_out_tongue_closed_eyes:.
+#### Atualmente entrando de cabeça nos conceitos de arquitetura limpa e padrões de projeto aplicados tando do front quanto no back-end.
 
 
-#### :computer: Tecnologias que utilizo:
+#### :computer: Tecnologias de maior senioridade:
 
-* HTML
-* CSS
-* JavaScript
+* React.js
+* Next.js
 * TypeScript
 * NodeJs
-* ExpressJs
-* ReactJs
-* React Native
-* MongoDB
-* SQLite
 
 
 #### Você pode conferir alguns projetos que desenvolvi utilizando essas tecnologias logo ali embaixo :point_down:.
