@@ -3,7 +3,7 @@
 #### Atualmente entrando de cabeça nos conceitos de arquitetura limpa e padrões de projeto aplicados tando do front quanto no back-end.
 
 
-#### :computer: Tecnologias de maior senioridade:
+#### :computer: Tech eletro hits:
 
 * React.js
 * Next.js
